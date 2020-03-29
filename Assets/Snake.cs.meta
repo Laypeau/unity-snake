@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a1d85748a41a3f64c95d9627b36920e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - segmentPrefab: {fileID: 765577283109005886, guid: 2e51470eb68d06a45bf29681a72f0492,
+      type: 3}
+  - segmentMaterial: {fileID: 2100000, guid: 16596e41ac7f2eb4c9f0dbd7bd951798, type: 2}
+  - foodPrefab: {fileID: 6476190253441680998, guid: 07ef0e309999f08419c3815745334cb7,
+      type: 3}
+  - gameCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
